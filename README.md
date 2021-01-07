@@ -1,4 +1,4 @@
-#nForColemak
+normal mod for Colemak
 ===========
 same normal mode experience for colemak user. like qwerty
 
