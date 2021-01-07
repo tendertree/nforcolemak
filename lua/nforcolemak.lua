@@ -3,7 +3,7 @@
 -- 2021.01.07
 --
 local s = vim.api.nvim_set_keymap
-
+--basic key binding 1 : 1 
 s('n','d','g',{noremap = true})
 s('v','d','g',{noremap = true})
 --
@@ -42,6 +42,7 @@ s('v','r','s',{noremap = true})
 --
 s('n','s','d',{noremap = true})
 s('v','s','d',{noremap = true})
+
 --
 s('n','t','f',{noremap = true})
 s('v','t','f',{noremap = true})
@@ -55,4 +56,12 @@ s('v','y','o',{noremap = true})
 s('n',';','p',{noremap = true})
 s('v',';','p',{noremap = true})
 --
+--binding for some action 
+s('n','ss','dd',{noremap = true})
+s('v','ss','dd',{noremap = true})
 
+s('n','D','G',{noremap =true})
+s('v','D','G',{noremap =true})
+
+s('n','dd','gg',{noremap = true})
+s('n','dd','gg',{noremap = true})
