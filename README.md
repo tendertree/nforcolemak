@@ -1,6 +1,6 @@
-normal mod for Colemak
+Qwerty normal mod key layout for Colemak
 ===========
-same normal mode key map (qwerty) for colemak user.
+same normal mode key layout (qwerty) for colemak user.
 
 for 'colemak' user, you will be confused when you enter the 'normal' mode. because of position of short cuts are changed for 'colemak' keyboard layout. for example, if you want to move down follow the "HJKL" it wasn't work. because of "j"key now "y" positinon in colemak layout. so "j" key now active "n" key function.
  
