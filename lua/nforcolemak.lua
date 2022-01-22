@@ -6,6 +6,7 @@ local s = vim.api.nvim_set_keymap
 --basic key binding 1 : 1 
 s('n','d','g',{noremap = true})
 s('v','d','g',{noremap = true})
+
 --
 s('n','e','k',{noremap = true})
 s('v','e','k',{noremap = true})
@@ -24,6 +25,7 @@ s('v','j','y',{noremap = true})
 --
 s('n','k','n',{noremap = true})
 s('v','k','n',{noremap = true})
+s('n', 'K', 'N',{noremap = true})
 --
 s('n','l','u',{noremap = true})
 s('v','l','u',{noremap = true})
@@ -65,3 +67,6 @@ s('v','D','G',{noremap =true})
 
 s('n','dd','gg',{noremap = true})
 s('n','dd','gg',{noremap = true})
+
+s('n', 'dt', 'gf', { noremap = true, silent = true })
+
