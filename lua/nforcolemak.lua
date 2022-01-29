@@ -70,3 +70,4 @@ s('n','dd','gg',{noremap = true})
 
 s('n', 'dt', 'gf', { noremap = true, silent = true })
 
+require("nforcolemak")
