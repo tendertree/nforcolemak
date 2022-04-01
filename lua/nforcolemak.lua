@@ -51,6 +51,8 @@ s('v','t','f',{noremap = true})
 --
 s('n','u','i',{noremap = true})
 s('v','u','i',{noremap = true})
+s('n','U','I',{noremap = true})
+s('v','U','I',{noremap = true})
 --
 s('n','y','o',{noremap = true})
 s('v','y','o',{noremap = true})
