@@ -1,12 +1,6 @@
 Qwerty normal mod key layout for Colemak
 ===========
-same normal mode key layout (qwerty) for colemak user.
-
-for 'colemak' user, you will be confused when you enter the 'normal' mode. because of position of short cuts are changed for 'colemak' keyboard layout. for example, if you want to move down follow the "HJKL" it wasn't work. because of "j"key now "y" positinon in colemak layout. so "j" key now active "n" key function.
- 
-if you want to use colemak for only typing not normal mode. this plugin might help.
-it will binding colemak key in 'normal' and 'visual' mode. so you will keep  your finger muslce memory. just like when you use 'qwerty' 
-
+For Colemak users, you may be confused when entering normal mode because the positions of the shortcuts have been changed for the Colemak keyboard layout. For example, if you try to move down using the "HJKL" keys in normal mode, it will not work because the "J" key is now in the "Y" position in the Colemak layout. This means that the "J" key now performs the function of the "N" key. If you only want to use Colemak for typing and not in normal mode, this plugin may be helpful. It will bind the Colemak keys in both normal and visual mode, allowing you to maintain your finger muscle memory as if you were using a QWERTY keyboard
 
 Install
 =======
